@@ -3,10 +3,6 @@ Philips Hue Dashboard
 Version 2.1 (435 KB) by spfthink
 Works on PC & Mac
 
-Overview
-Version History
-Reviews (0)
-Discussions (0)
 Philips Hue Bridge usage summary with diagnostics and lights controls.
 Provides a single-page at-a-glance overview of all installed components:
 1) Lights
