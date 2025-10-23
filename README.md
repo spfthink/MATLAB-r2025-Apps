@@ -19,4 +19,6 @@ Lights control functionality:
 5) Switch all lights off
 6) Change colour of indiviual lights
 7) Change colour of lights groups
-Built-in Bridge pairing (Whitelist) process and Bridge IP Address control logic.  Automatically adapts to change of IP Address after (e.g.) a router restart.
+   
+Built-in Bridge pairing (Whitelist) process and Bridge IP Address control logic.  
+Automatically adapts to change of IP Address after (e.g.) a router restart.
