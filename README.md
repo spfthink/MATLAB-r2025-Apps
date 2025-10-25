@@ -1,4 +1,4 @@
-![Dashboard Preview](images/HueDashboard v2.1.png)
+
 Philips Hue Dashboard
 Version 2.1 (435 KB) by spfthink
 Works on PC & Mac
