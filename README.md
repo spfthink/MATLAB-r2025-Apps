@@ -10,7 +10,7 @@ Provides a single-page at-a-glance overview of all installed components:
 3) Rules
 4) Scenes
 5) Schedules
-As well as:  Bridge configuration details (IP address, Zigbee Channel, firmware version etc.); a summary for Bridge % usage by component; temperature sensors summary; device batery statuses; warnings for low battery and unreachable lights; a scrollable and sortable list of Rules, Lights and Sensor temperatures.
+ * As well as:  Bridge configuration details (IP address, Zigbee Channel, firmware version etc.); a summary for Bridge % usage by component; temperature sensors summary; device batery statuses; warnings for low battery and unreachable lights; a scrollable and sortable list of Rules, Lights and Sensor temperatures.
 Lights control functionality:
 1) Toggle individual lights
 2) Toggle lights groups
