@@ -1,6 +1,6 @@
 To auto-install the app and supporting files
 * import the HueDashboard.mltbx (MATLAB Toolbox) file to the MATLAB environment.
-* double-click the .mltbx file - this will install the Philips Hue Dashboard app and supportinh HTML and HueData folders.
+* double-click the .mltbx file - this will install the Philips Hue Dashboard app and supporting HTML and HueData folders.
 * The app will now appear in the APPS toolbar.
 
 
